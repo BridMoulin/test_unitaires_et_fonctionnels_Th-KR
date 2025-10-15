@@ -1,0 +1,19 @@
+{
+  "name": "test_unitaires_et_fonctionnels_th-kr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BridMoulin/test_unitaires_et_fonctionnels_Th-KR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BridMoulin/test_unitaires_et_fonctionnels_Th-KR/issues"
+  },
+  "homepage": "https://github.com/BridMoulin/test_unitaires_et_fonctionnels_Th-KR#readme"
+}
